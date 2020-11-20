@@ -1,1 +1,2 @@
-# django-start
+# django-start Starter template 
+
